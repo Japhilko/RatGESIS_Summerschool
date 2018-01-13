@@ -1,0 +1,15 @@
+---
+title: "Get Panel Data"
+author: "Jan-Philipp Kolb"
+date: "13 Januar 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## [GESIS Panel Campus File](https://www.gesis.org/gesis-panel/data/gesis-panel-campus-file/)
+
+![](figure/HP_GesisPanel.PNG)
+
